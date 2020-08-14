@@ -2,7 +2,8 @@
 
 ## Projects
 
-* **Xeno** is a Discord.JS bot using the open-source [cRob](https://github.com/tascord/cRob), this is written in [JavaScript](https://www.javascript.com/) using [NodeJS](https://nodejs.org/en/).
+* [**Xeno**](https://top.gg/bot/470859700079165450) is a Discord.JS bot using the open-source [cRob](https://github.com/tascord/cRob), this is written in [JavaScript](https://www.javascript.com/) using [NodeJS](https://nodejs.org/en/).
+
 * **CactiveClient** is a Minecraft PvP Client made for 1.8.9, you can apply to be a beta-tester [here](https://forms.gle/Jdmc9qxwCGhUs2pCA) and is written in [Java](http://java.com/).
 
 
