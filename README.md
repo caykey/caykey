@@ -2,7 +2,6 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-ie-6.svg)](https://forthebadge.com)
 
 
@@ -19,6 +18,7 @@ I also have a lot of minor, closed sourced projects, some to be announced in the
 * **Discord:** cayke#1337, [discord.gg/NeqVuSy](https://discord.gg/NeqVuSy)
 * **Twitter:** [twitter.com/caykeMC](https://twitter.com/caykeMC)
 * **YouTube:** [youtube.com/TheCactiveCake](https://youtube.com/TheCactiveCake)
+* **Bitcoin:** 16EzACbFobLvWMSEqJVfcQyaFKz8dpxMYu
 
 ### Statistics
 ![cayke's github stats](https://github-readme-stats.vercel.app/api?username=caykey)
