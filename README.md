@@ -15,7 +15,7 @@ I also have a lot of minor, closed sourced projects, some to be announced in the
 
 ### Social Media
 
-* **Discord:** cayke#1337, [discord.gg/NeqVuSy](https://discord.gg/NeqVuSy)
+* **Discord:** cayke#1337, [discord.gg/cayke](https://discord.gg/NeqVuSy)
 * **Twitter:** [twitter.com/caykeMC](https://twitter.com/caykeMC)
 * **YouTube:** [youtube.com/TheCactiveCake](https://youtube.com/TheCactiveCake)
 * **Bitcoin:** 16EzACbFobLvWMSEqJVfcQyaFKz8dpxMYu
