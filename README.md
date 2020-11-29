@@ -2,8 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-ie-6.svg)](https://forthebadge.com)
 
-## Hello, I'm Luke!
-#### Also known by my psuedonym, 'cayke'.
+## Hello, I'm Luke, also known by my psuedonym, 'cayke'!
 
 
 ### My Languages
