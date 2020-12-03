@@ -15,7 +15,7 @@
 ### Contact Information
 
 * **Email:** [admin@luke.mx](mailto://admin@luke.mx)
-* **Discord:** cayke#1337, [discord.gg/australia](https://discord.gg/NeqVuSy)
+* **Discord:** cayke#1337, [discord.gg/NeqVuSy](https://discord.gg/NeqVuSy)
 * **Twitter:** [twitter.com/caykeMC](https://twitter.com/caykeMC)
 * **YouTube:** [youtube.com/TheCactiveCake](https://youtube.com/TheCactiveCake)
 
